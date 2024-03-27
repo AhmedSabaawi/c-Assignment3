@@ -1,0 +1,16 @@
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\bin\Debug\net8.0-windows\BMICalculator.exe
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\bin\Debug\net8.0-windows\BMICalculator.deps.json
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\bin\Debug\net8.0-windows\BMICalculator.runtimeconfig.json
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\bin\Debug\net8.0-windows\BMICalculator.dll
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\bin\Debug\net8.0-windows\BMICalculator.pdb
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.csproj.GenerateResource.cache
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.AssemblyInfo.cs
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.dll
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\refint\BMICalculator.dll
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.pdb
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.genruntimeconfig.cache
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\ref\BMICalculator.dll
+C:\Users\ahmzd\source\repos\Assignment3\Assignment3\obj\Debug\net8.0-windows\BMICalculator.MainForm.resources
